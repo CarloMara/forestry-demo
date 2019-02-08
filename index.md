@@ -4,18 +4,10 @@ banner_image: "/img/banner.png"
 layout: landing-page
 heading: Testo di prova
 partners: []
-services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+services: []
 sub_heading: Ciao testo di prova
-textline: |
-  Belkirk College of Engineering
+textline: |-
+  sercazzi
 
   Ora et Labora
 hero_button:
